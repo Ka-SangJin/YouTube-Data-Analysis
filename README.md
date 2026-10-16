@@ -4,6 +4,6 @@
 
 This project is licensed under the MIT License.
 
-Copyright (c) 2026 [Your Name].
+Copyright (c) 2026 Ka-SangJin.
 
 See the [LICENSE](LICENSE) file for details.
