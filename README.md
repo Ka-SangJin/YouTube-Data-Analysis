@@ -200,7 +200,3 @@ Random Forest 분석에서 제목 길이가 조회수 예측에 가장 중요한
 3. `KR_category_id.json` 준비
 4. 노트북과 데이터 파일의 경로 설정
 5. Jupyter Notebook 또는 Google Colab에서 순서대로 실행
-
-## 8. Conclusion
-
-이번 프로젝트에서는 유튜브 인기 동영상 데이터를 활용
